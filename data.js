@@ -1,18 +1,13 @@
 exports.topics = 
     [ { topic: "Christ", keyWord: "Christ" }
-      , { topic: "Perfection", keyWord: "perfect" }
       , { topic: "Faith", keyWord: "faith" }
-      , { topic: "Hope", keyWord: "hope" }
       , { topic: "Charity", keyWord: "charity" }
       , { topic: "Sin", keyWord: "sin" }
       , { topic: "Light", keyWord: "light" }
       , { topic: "Wisdom", keyWord: "wisdom" }
-      , { topic: "Understanding", keyWord: "understanding" }
-      , { topic: "Fear", keyWord: "fear" }
       , { topic: "Love", keyWord: "love" }
       , { topic: "Seek", keyWord: "seek" }
       , { topic: "Commandments", keyWord: "command" }
-      , { topic: "Grace", keyWord: "grace" }
       , { topic: "Meekness", keyWord: "meek" }
       , { topic: "Prayer", keyWord: "pray" }
     ];
